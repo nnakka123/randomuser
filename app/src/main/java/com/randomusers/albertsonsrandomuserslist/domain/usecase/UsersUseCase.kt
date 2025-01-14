@@ -1,0 +1,1 @@
+package com.randomusers.albertsonsrandomuserslist.domain.usecaseimport kotlinx.coroutines.flow.Flowimport com.randomusers.albertsonsrandomuserslist.data.model.UsersModelinterface UsersUseCase {    operator fun invoke(count: Int): Flow<List<UsersModel>>}

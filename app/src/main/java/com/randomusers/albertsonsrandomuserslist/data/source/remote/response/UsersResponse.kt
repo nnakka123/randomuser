@@ -1,0 +1,1 @@
+package com.randomusers.albertsonsrandomuserslist.data.source.remote.responsedata class UsersResponse(    val info: Info,    val results: List<Result>)

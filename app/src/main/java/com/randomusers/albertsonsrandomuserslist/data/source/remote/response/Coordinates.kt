@@ -1,0 +1,1 @@
+package com.randomusers.albertsonsrandomuserslist.data.source.remote.responsedata class Coordinates(    val latitude: String,    val longitude: String)
